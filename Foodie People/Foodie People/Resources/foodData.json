@@ -1,0 +1,158 @@
+{
+"foodItems": [
+    {
+        "itemName": "Bacon Snack",
+        "category": "burger",
+        "categoryDisplayName" : "Burger",
+        "id": 1001,
+        "imageName": "bacon_snack",
+        "price": "$5",
+        "itemDescription":"Half ground bacon, half ground beef burger patty developed by Scott Slater for Slater's 50/50 restaurant. Another variety is half kangaroo meat and half bacon."
+    },
+    {
+        "itemName": "Cheese",
+        "category": "burger",
+        "categoryDisplayName" : "Burger",
+        "id": 1002,
+        "imageName": "cheese",
+        "price": "$2",
+        "itemDescription":"A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty, but the burger can include variations in structure, ingredients and composition. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. As with other hamburgers, a cheeseburger may include toppings, such as lettuce, tomato, onion, pickles, bacon, mayonnaise, ketchup, mustard or other toppings.\n\nIn fast food restaurants, the cheese used is usually processed cheese, but any other meltable cheeses may be used. Common examples include cheddar, Swiss, mozzarella, blue Cheese, and pepper jack."
+    },
+    {
+        "itemName": "Hamburger",
+        "category": "burger",
+        "categoryDisplayName" : "Burger",
+        "id": 1003,
+        "imageName": "hamburger",
+        "price": "$7",
+        "itemDescription":"A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or a \"special sauce\", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger"
+    },
+    {
+        "itemName": "Chocolate ice cream",
+        "category": "ice_cream",
+        "categoryDisplayName" : "Ice-Cream",
+        "id": 1004,
+        "imageName": "chocolate_ice_cream",
+        "price": "$1",
+        "itemDescription":"The earliest frozen chocolate recipes were published in Naples, Italy in 1693 in Antonio Latini's The Modern Steward. Chocolate was one of the first ice cream flavors, created before vanilla, as common drinks such as hot chocolate, coffee, and tea were the first food items to be turned into frozen desserts. Hot chocolate had become a popular drink in seventeenth-century Europe, alongside coffee and tea, and all three beverages were used to make frozen and unfrozen desserts. Latini produced two recipes for ices based on the drink, both of which contained only chocolate and sugar. In 1775, Italian doctor Filippo Baldini wrote a treatise entitled De sorbetti, in which he recommended chocolate ice cream as a remedy for various medical conditions, including gout and scurvy.\n\nChocolate ice cream became popular in the United States in the late nineteenth century. The first advertisement of ice cream in America started in New York on May 12, 1777 when Philip Lenzi announced that ice cream was officially available \"almost every day\". Until 1800, ice cream was a rare and exotic dessert enjoyed mostly by the elite. Around 1800 insulated ice houses were invented and manufacturing ice cream soon became an industry in America.[5][6]."
+    },
+    {
+        "itemName": "Raspberry Ripple",
+        "category": "ice_cream",
+        "categoryDisplayName" : "Ice-Cream",
+        "id": 1005,
+        "imageName": "rasberries_ice",
+        "price": "$3",
+        "itemDescription":"Raspberry Ripple is a popular flavour of ice cream particularly in Great Britain and also elsewhere. It consists of raspberry syrup injected into vanilla ice cream. \"Raspberry Ripple\" was the name given to other raspberry flavoured food products in the 1920s.\n\nThe term \"ripple\" in ice cream manufacture and consumption may have originated in the United States where from the 1930s, it was used to denote any type of ice cream ribboned through with coloured and flavoured syrup.Around this time, machinery had been developed which would allow ice cream to incorporate fruit paste separately in a marbled effect.Raspberry ripple has been a popular variant ever since."
+    },
+    {
+        "itemName": "Strawberry ice cream",
+        "category": "ice_cream",
+        "categoryDisplayName" : "Ice-Cream",
+        "id": 1006,
+        "imageName": "strawberry_ice_cream",
+        "price": "$2",
+        "itemDescription":"Strawberry ice cream is a flavor of ice cream made with strawberry or strawberry flavoring. It is made by blending in fresh strawberries or strawberry flavoring with the eggs, cream, vanilla and sugar used to make ice cream.Most strawberry ice cream is colored pink or light red. Strawberry ice cream dates back at least to 1813, when it was served at the second inauguration of James Madison.Along with vanilla and chocolate ice cream, strawberry is one of the three flavors in Neapolitan ice cream. Variations of strawberry ice cream include strawberry cheesecake ice cream and strawberry ripple ice cream, which is vanilla ice cream with a ribbon of strawberry jam or syrup. Some ice cream sandwiches are prepared neapolitan-style, and include strawberry ice cream."
+    },
+    {
+        "itemName": "Neapolitan ice cream",
+        "category": "ice_cream",
+        "categoryDisplayName" : "Ice-Cream",
+        "id": 1007,
+        "imageName": "waffle_ice",
+        "price": "$4",
+        "itemDescription":"Neapolitan ice cream was named in the late 19th century as a reflection of its presumed origins in the cuisine of the Italian city of Naples, and the many Neapolitan immigrants who brought their expertise in frozen desserts with them to the United States. Spumone was introduced to the United States in the 1870s as Neapolitan-style ice cream. Early recipes used a variety of flavors; however, the number of three molded together was a common denominator, to resemble the Italian flag (cf. insalata tricolore). More than likely, chocolate, vanilla, and strawberry became the standard for the reason that they were the most popular flavors in the United States at the time of introduction.\n\nIt is the first type of ice cream to combine three flavors. The first recorded recipe was created by head chef of the royal Prussian household Louis Ferdinand Jungius in 1839, who dedicated the recipe to Fürst Pückler."
+    },
+    {
+        "itemName": "Margherita Pizza",
+        "category": "pizza",
+        "categoryDisplayName" : "Pizza",
+        "id": 1008,
+        "imageName": "pizza_garlic",
+        "price": "$3",
+        "itemDescription":"A widespread belief says that in June 1889 the pizzaiolo Raffaele Esposito, Pizzeria Brandi's chef, invented a dish called \"Pizza Margherita\" in honor of the Queen of Italy, Margherita of Savoy, and the Italian unification, since toppings are tomato (red), mozzarella (white) and basil (green), representing the same colors of the national flag of Italy.\n\nThe legend of pizza Margherita is considered a false history, as a pizza made with the same toppings was already present in Naples between 1796 and 1810,although it probably was not called \"Margherita\". In 1830, in the book Napoli, contorni e dintorni, written by Riccio, it was described as a pizza with tomato, mozzarella and basil.In 1849 Emanuele Rocco recorded different pizza toppings like basil, tomatoes and thin slices of mozzarella, the mozzarella was thinly sliced, and arranged with a flower-shape over the tomato sauce, along with the basil leaves: this may be the real origin of the name Margherita (meaning daisy).\n\nIn 1866 Francesco De Bourcard, writing about the Naples traditions, described the most commonly used pizza toppings at that time, included the ones called today pizza marinara, pizza margherita and calzone"
+    },
+    {
+        "itemName": "Cheese Pizza",
+        "category": "pizza",
+        "categoryDisplayName" : "Pizza",
+        "id": 1009,
+        "imageName": "pizza_hum_cheese",
+        "price": "$2",
+        "itemDescription":"Pizza cheese encompasses several varieties and types of cheeses and dairy products that are designed and manufactured for use specifically on pizza. These include processed and modified cheese such as mozzarella-like processed cheeses and mozzarella variants. The term can also refer to any type of cheese suitable for use on pizza. The most popular cheeses used in the preparation of pizza are mozzarella (accounting for about 30%), provolone, cheddar and Parmesan. Emmental, Romano and ricotta are often used as toppings, and processed pizza cheeses manufactured specifically for pizza are mass-produced. Some mass-produced pizza cheeses are frozen after manufacturing and shipped frozen.\n\nProcessed pizza cheese is manufactured to produce optimal qualities in browning, melting, stretchiness and fat and moisture content. Several studies and experiments have analyzed the impact of vegetable oil, manufacturing and culture processes, denatured whey proteins and other changes to create ideal and economical pizza cheeses. In 1997, it was estimated that annual production of pizza cheese products was 2 billion pounds in the United States and 200 million pounds in Europe, and in 2000 demand for the product in Europe was increasing by 8% per year. The trend of steadily-increasing production and consumption of mozzarella and pizza cheese continued into the first decade of the 21st century in the United States"
+    },
+    {
+        "itemName": "Italian pizza",
+        "category": "pizza",
+        "categoryDisplayName" : "Pizza",
+        "id": 1010,
+        "imageName": "pizza_italian",
+        "price": "$4",
+        "itemDescription":"Authentic Neapolitan pizza (pizza napoletana) is made with San Marzano tomatoes, grown on the volcanic plains south of Mount Vesuvius, and mozzarella di bufala Campana, made with milk from water buffalo raised in the marshlands of Campania and Lazio. This mozzarella is protected with its own European protected designation of origin. Other traditional pizzas include pizza alla marinara, which is topped with marinara sauce and is supposedly the most ancient tomato-topped pizza, pizza capricciosa, which is prepared with mozzarella cheese, baked ham, mushroom, artichoke, and tomato, and pizza pugliese, prepared with tomato, mozzarella, and onions.\n\nA popular variant of pizza in Italy is Sicilian pizza (locally called sfincione or sfinciuni), a thick-crust or deep-dish pizza originating during the 17th century in Sicily: it is essentially a focaccia that is typically topped with tomato sauce and other ingredients. Until the 1860s, sfincione was the type of pizza usually consumed in Sicily, especially in the Western portion of the island. Other variations of pizzas are also found in other regions of Italy, for example pizza al padellino or pizza al tegamino, a small-sized, thick-crust, deep-dish pizza typically served in Turin, Piedmont"
+    },
+    {
+        "itemName": "Pizza rolls",
+        "category": "pizza",
+        "categoryDisplayName" : "Pizza",
+        "id": 1011,
+        "imageName": "pizza_roll",
+        "price": "$2",
+        "itemDescription":"Pizza rolls are a frozen food product created by food industry entrepreneur Jeno Paulucci, who specialized in frozen Chinese food, in 1951. After Jeno's sold the brand in 1985, it was acquired by Pillsbury, which owned Totino's pizza. In 1993, Jeno's Pizza Rolls were rebranded as Totino's Pizza Rolls.\n\nThe snacks consist of bite-sized breaded pockets with an interior of diced pepperoni, tomato sauce, and melted cheese. They come in a variety of flavors including Cheese, Combination, Pepperoni, Triple Pepperoni, Sausage, Supreme, Triple Cheese, and Triple Meat.\n\nThanks to a series of commercial spoofs on Saturday Night Live, (starring Kristen Stewart in these Totino's commercial parody's) Totino's have seen a boost in popularity and sales with their pizza rolls."
+    },
+    {
+        "itemName": "Bologna Sandwich",
+        "category": "sandwich",
+        "categoryDisplayName" : "Sandwich",
+        "id": 1012,
+        "imageName": "appetizer",
+        "price": "$4",
+        "itemDescription":"The bologna sandwich is a sandwich common in the United States and Canada. Also known as a baloney sandwich, it is traditionally made from sliced bologna sausage between slices of white bread, along with various condiments, such as mayonnaise, mustard, and ketchup.\n\nThe bologna sandwich is a regional specialty in the Midwest, Appalachia, and the South. It is the sandwich served at lunch counters of small, family-run markets that surround the Great Smoky Mountains, and fried bologna sandwiches can be found on restaurant menus in many places in the South. The fried version is likewise sometimes sold at concession stands in stadiums, like those of the Cincinnati Reds. In Pittsburgh, Pennsylvania, it is called a \"jumbo sammich\". In Knoxville, the sandwich is referred to in local slang as a \"Lonsdale Ham\" sandwich, after the less-affluent neighborhood of Lonsdale, in Knoxville, TN."
+    },
+    {
+        "itemName": "Caviar Sandwich",
+        "category": "sandwich",
+        "categoryDisplayName" : "Sandwich",
+        "id": 1013,
+        "imageName": "caviar_sandwich",
+        "price": "$5",
+        "itemDescription":"Caviar (also known as caviare; from Persian: خاویار‎, romanized: khâvyâr, lit. 'egg-bearing') is a food consisting of salt-cured roe of the family Acipenseridae. Caviar is considered a delicacy and is eaten as a garnish or a spread. The roe can be \"fresh\" (non-pasteurized) or pasteurized, with pasteurization reducing its culinary and economic value.\n\nTraditionally, the term caviar refers only to roe from wild sturgeon in the Caspian Sea and Black Sea (Beluga, Ossetra and Sevruga caviars). Depending on the country, caviar may also be used to describe the roe of other species of sturgeon or other fish such as salmon, steelhead, trout, lumpfish, whitefish, or carp."
+    },
+    {
+        "itemName": "Bologna Sandwich",
+        "category": "sandwich",
+        "categoryDisplayName" : "Sandwich",
+        "id": 1014,
+        "imageName": "egg_sandwich",
+        "price": "$2",
+        "itemDescription":"An egg sandwich is a sandwich with some kind of cooked egg filling. Fried eggs, scrambled eggs, sliced boiled eggs and egg salad (a mix of chopped cooked egg and mayonnaise) are popular options. In the fourth case, it may be called an egg salad sandwich.Beyond the basic model of fried egg between slices of bread, many common sandwiches have variations that include a fried egg in addition to bacon, sausage, cheese, black pudding, cold cuts, or as another topping to a hamburger. A popular breakfast sandwich in New Jersey consists of a fried egg, pork roll, and American cheese on a roll. The Southern egg sandwich is an egg and cheese sandwich, with bacon and avocado as additions.\n\nA popular filling snack with British troops since at least World War I, the \"egg banjo\" is a sandwich of a runny fried egg between two thick slices of bread[6] (if possible, buttered or with margarine), often accompanied by a mug of \"gunfire\" (a drink of tea and rum). A popular account of the term's origins is the act of cleaning spilt egg off one's body, the sandwich held out to the side with one hand whilst the other wipes at the drips, giving the impression of playing an invisible banjo."
+    },
+    {
+        "itemName": "Mussel",
+        "category": "seafood",
+        "categoryDisplayName" : "Seafood",
+        "id": 1015,
+        "imageName": "mussels",
+        "price": "$4",
+        "itemDescription":"Mussel (/ˈmʌsəl/) is the common name used for members of several families of bivalve molluscs, from saltwater and freshwater habitats. These groups have in common a shell whose outline is elongated and asymmetrical compared with other edible clams, which are often more or less rounded or oval.\n\nThe word \"mussel\" is frequently used to mean the bivalves of the marine family Mytilidae, most of which live on exposed shores in the intertidal zone, attached by means of their strong byssal threads (\"beard\") to a firm substrate. A few species (in the genus Bathymodiolus) have colonised hydrothermal vents associated with deep ocean ridges.\n\nIn most marine mussels the shell is longer than it is wide, being wedge-shaped or asymmetrical. The external colour of the shell is often dark blue, blackish, or brown, while the interior is silvery and somewhat nacreous.\n\nThe common name \"mussel\" is also used for many freshwater bivalves, including the freshwater pearl mussels. Freshwater mussel species inhabit lakes, ponds, rivers, creeks, canals, and they are classified in a different subclass of bivalves, despite some very superficial similarities in appearance.\n\nFreshwater zebra mussels and their relatives in the family Dreissenidae are not related to previously mentioned groups, even though they resemble many Mytilus species in shape, and live attached to rocks and other hard surfaces in a similar manner, using a byssus. They are classified with the Heterodonta, the taxonomic group which includes most of the bivalves commonly referred to as \"clams\"."
+    },
+    {
+        "itemName": "Prawn",
+        "category": "seafood",
+        "categoryDisplayName" : "Seafood",
+        "id": 1016,
+        "imageName": "prawn",
+        "price": "$5",
+        "itemDescription":"Prawn is a common name for small aquatic crustaceans with an exoskeleton and ten legs (which is a member of the order decapoda), some of which can be eaten.\n\nThe term prawn is used particularly in the United Kingdom, Ireland, and Commonwealth nations, for large swimming crustaceans or shrimp, especially those with commercial significance in the fishing industry. Shrimp that are present in this category often belong to the suborder Dendrobranchiata. In North America, the term is used less frequently, typically for freshwater shrimp. The terms shrimp and prawn themselves lack scientific standing. Over the years, the way shrimp and prawn are used has changed, and these days the terms are almost interchangeable."
+    },
+    {
+        "itemName": "Salmon",
+        "category": "seafood",
+        "categoryDisplayName" : "Seafood",
+        "id": 1017,
+        "imageName": "salmon",
+        "price": "$7",
+        "itemDescription":"Salmon /ˈsæmən/ is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling, and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively farmed in many parts of the world.\n\nTypically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce. However, populations of several species are restricted to fresh water throughout their lives. Folklore has it that the fish return to the exact spot where they hatched to spawn. Tracking studies have shown this to be mostly true. A portion of a returning salmon run may stray and spawn in different freshwater systems; the percent of straying depends on the species of salmon. Homing behavior has been shown to depend on olfactory memory. Salmon date back to the Neogene"
+    }
+    
+]
+}
